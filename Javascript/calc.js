@@ -19,5 +19,3 @@ if (!isNaN(numeroUno)) {
                 }
         }
 }
-
-console.log('Hola viteh')
