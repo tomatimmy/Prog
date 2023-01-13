@@ -1,4 +1,4 @@
-// CALCULADORA MUY PERO MUY FALOPA
+// CALCULADORA MUY PERO MUY FALOPA!
 
 let numeroUno = Number(prompt('Ingresa un numero: '));
 
@@ -19,3 +19,5 @@ if (!isNaN(numeroUno)) {
                 }
         }
 }
+
+console.log('Hola viteh')
