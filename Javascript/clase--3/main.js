@@ -27,7 +27,7 @@ console.log(10) */
 /*
 for(desde; hasta; actualizacion) {
     el código que queremos que se repita. 
-    consolo.log("hola mundo");
+    console.log("hola mundo");
 }
 */
 
