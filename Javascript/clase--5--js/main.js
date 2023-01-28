@@ -163,7 +163,7 @@ console.log("casado" in homero); // false
 
 //Nos permite recorrer las propiedades de un objeto. 
 
-for ( let propiedad in homero) {
+for (let propiedad in homero) {
     console.log(propiedad);
 }
 
