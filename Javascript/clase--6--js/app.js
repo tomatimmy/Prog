@@ -29,5 +29,6 @@ while (i < 10) {
 
 //Comenzamos el ciclo para imprimir por consola la información del track y el orden en la lista de Samu
 for (let i = 0; i < tracks.length; i++) {
-    console.log('El track "' + tracks[i].nombre + '" del artista "' + tracks[i].artista + '" es el nro. ' + (i + 1) + ' en la lista de Samu.');
+    alert('El track "' + tracks[i].nombre + '" del artista "' + tracks[i].artista + '" es el nro. ' + (i + 1) + ' en la lista de Samu.');
 }
+
