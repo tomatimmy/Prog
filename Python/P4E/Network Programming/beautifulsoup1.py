@@ -1,3 +1,5 @@
+#SCRAPING HTML DATA AUTOGRADER
+
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
 import ssl
